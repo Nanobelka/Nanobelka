@@ -1,10 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=your-github-Nanobelka&style=flat-square&color=grey" alt=""/>
-
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
-<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Nanobelka&style=flat-square&color=grey" alt=""/>
   <a href="https://www.linkedin.com/in/sergeivasilev26/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
