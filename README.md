@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%233795bd" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/streamlit.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
 </div>
 
