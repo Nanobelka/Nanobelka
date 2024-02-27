@@ -6,7 +6,7 @@
 Меня зовут Сергей Васильев.  
 Работаю консультантом и ревьюером data science в Яндекс.Мастерской.
 
-Задать мне вопрос можно здесь:
+Задать мне вопрос или предложить интересный проект можно здесь:
 <div id="badges">
   <a href="https://www.linkedin.com/in/sergeivasilev26/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
